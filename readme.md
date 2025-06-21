@@ -43,7 +43,7 @@ To apply data visualization best practices by evaluating and improving four publ
 
 ## References
  
-- [Costco. (2024). Our 2024 climate action plan]([https://www.linkedin.com/in/huiherman](https://mobilecontent.costco.com/staging/resource/img/25w03130/5a_ClimateActionPlan
+- [Costco. (2024). Our 2024 climate action plan](https://mobilecontent.costco.com/staging/resource/img/25w03130/5a_ClimateActionPlan
 _FY24.pdf)
  
 - [Vachris, R. (2024). FISCAL YEAR ENDED SEPTEMBER 1, 2024 ANNUAL REPORT](https://s201.q4cdn.com/287523651/files/doc_financials/2024/ar/COST-2024-AnnualReport.pdf)
