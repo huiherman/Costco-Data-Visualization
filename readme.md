@@ -10,6 +10,8 @@ To apply data visualization best practices by evaluating and improving four publ
 1. **Visualization 1** – 5-Year Cumulative Total Return  
    - Comparative line chart analysis between Costco, S&P 500, and Retail Index  
    - Focused on audience clarity and investment decision support
+  
+   - <img width="901" alt="image" src="https://github.com/user-attachments/assets/90690e7f-4ba6-4371-9858-e43c5aa0490f" />
 
 2. **Visualization 2** – Global Store Locations (Outside North America)  
    - Evaluation of Costco’s international footprint using maps  
